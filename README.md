@@ -1,4 +1,4 @@
-# Task 1: Stopwatch Web Application
+# Task 2: Stopwatch Web Application
 
 ## Project Overview
 This project is a simple stopwatch web application built using **HTML**, **CSS**, and **JavaScript**. It provides essential functionalities such as starting, pausing, resetting, and tracking lap times. The application is designed to be interactive and user-friendly, with an intuitive interface for accurately measuring time intervals.
@@ -19,5 +19,5 @@ Users can start the timer, pause it when needed, reset the time, and also track 
 ## Instructions to Run Locally
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/hunda554/PRODIGY_WD_01.git
+   git clone https://github.com/hunda554/PRODIGY_WD_02.git
 
